@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37806.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionesETL.Data", "OpinionesETL.Data\OpinionesETL.Data.csproj", "{2D3C5E44-746A-4A4C-A579-2C7448BC6998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionesETL.Load", "OpinionesETL.Load\OpinionesETL.Load.csproj", "{22F12BA4-ABF8-75AB-762C-F65914713099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3C5E44-746A-4A4C-A579-2C7448BC6998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3C5E44-746A-4A4C-A579-2C7448BC6998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3C5E44-746A-4A4C-A579-2C7448BC6998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3C5E44-746A-4A4C-A579-2C7448BC6998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F12BA4-ABF8-75AB-762C-F65914713099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F12BA4-ABF8-75AB-762C-F65914713099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F12BA4-ABF8-75AB-762C-F65914713099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F12BA4-ABF8-75AB-762C-F65914713099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39F2AE2-93CD-4DB6-B19C-F4937DBA1808}
+	EndGlobalSection
+EndGlobal
